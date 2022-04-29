@@ -1,7 +1,7 @@
 module.exports = {
   env: {
     "BASE_URL" : "http://localhost:3000",
-    "MONGODB_URL" : "mongodb+srv://ishtiakAbrar:ishtu1200@e-book.wqtjw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "MONGODB_URL" : "mongodb+srv://ishtiakAbrar:<password>@e-book.wqtjw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 
     "ACCESS_TOKEN_SECRET" : "ishtiak123456@gmail.com01672019292123412",
     "REFRESH_TOKEN_SECRET" : "ishtiak123456@gmail.com0167201929201303082197",
